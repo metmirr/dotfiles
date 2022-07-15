@@ -1,0 +1,8 @@
+# Pnpm related alias
+alias pa="pnpm add"
+alias pag="pnpm add -g"
+alias pi="pnpm i"
+alias pss="pnpm start"
+alias psd="pnpm start:dev"
+alias pr="pnpm rm"
+alias pl="pnpm lint"
